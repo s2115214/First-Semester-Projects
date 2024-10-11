@@ -2,6 +2,5 @@
 
 
 ### Data curation
-For now i have just made the effort to create this repository and doodle a idea for project 1. Feel free to look at it, improve on it, or start a completly new idea!
-
+We need to find data and aquire it by a method we have learned in class. This data needs to be visualized and have some questions asked that we answer.
 Maybe we can find interesting data from WRDS
